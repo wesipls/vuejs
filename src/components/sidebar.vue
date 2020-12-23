@@ -16,7 +16,7 @@
 		<div id="linkbox">
 			<a href="https://github.com/wesipls"><img class="botimg" style="width:45px;height:45px;" src="../assets/github.png"></a>
 			<a href="https://fi.linkedin.com/in/kim-valkama"><img class="botimg" style="width:40px;height:40px;padding-top:4px;" src="../assets/linkedin.png"></a>
-			<a href="https://www.cycleit.fi/portfolio/KimCV.pdf"><img class="botimg" style="width:40px;height:40px;padding-top:4px;" src="../assets/pdf-files.png"></a>
+			<a href="cv.pdf"><img class="botimg" style="width:40px;height:40px;padding-top:4px;" src="../assets/pdf-files.png"></a>
 		</div>
 		<div class="langbox">
 			<h4 class="sidetitle">Language Skills:</h4>
