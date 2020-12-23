@@ -12,11 +12,11 @@
 		<div id="timelineright">
 			<div style="margin-top: -40px;" id="timelinedot"></div>
 			<h3 id="jobinfo">DevOps System Administrator</h3>
-			<h4 id="subtitle">PHZ Fullstack Oy</h4>
+			<h4 id="subtitle">Pharazon AB</h4>
 			<h4 id="jobdate">05/2020 - Current</h4>
 			<ul id="joblist">
 				<li class="a">Development, deployment and maintenance of company servers</li>
-				<li class="a">Device and service acquasition and integration</li>
+				<li class="a">Device and service acquisition and integration</li>
 				<li class="a">Responsible for System Administration and environment configuration</li>
 			</ul>
 			<div style="margin-top: 53px;" id="timelinedot"></div>
